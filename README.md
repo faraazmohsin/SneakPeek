@@ -21,11 +21,11 @@
 
 Check out the calendar by downloading the repository and all files included.
 
-1. Clone this repository and run:
-2. ```sh
-3. npm install
-4. ```
-5. 2. Start application on localhost
-6. ```sh
-7. npm start
-8. ```
+1. Clone this reposity and run:
+```sh
+npm install
+```
+2. Start the application on localhost:
+```sh
+npm start
+```
