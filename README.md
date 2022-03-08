@@ -10,12 +10,7 @@
 
 ## Demo
 
-  <div>
-<p align="left" width="100%">
-  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive.png">
+<p float="left" width="100%">
+  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_calendar.png">
+  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_calendar2.png">
 </p>
-
-<p align="right" width="100%">
-  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive2.png">
-</p>
-  </div>
