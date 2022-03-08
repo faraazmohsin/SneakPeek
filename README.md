@@ -10,6 +10,12 @@
 
 ## Demo
 
-Demo #1         |   Demo #2
-:-----------------------:-----------------------:
-![](/images/demo_responsive.png)  | ![](/images/demo_responsive2.png)
+  <div>
+<p align="center" width="100%">
+  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive.png">
+</p>
+
+<p align="center" width="100%">
+  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive2.png">
+</p>
+  </div>
