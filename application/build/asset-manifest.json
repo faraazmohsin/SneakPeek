@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/SneakPeek/static/css/main.e747e22d.chunk.css",
+    "main.js": "/SneakPeek/static/js/main.44f9232a.chunk.js",
+    "main.js.map": "/SneakPeek/static/js/main.44f9232a.chunk.js.map",
+    "runtime-main.js": "/SneakPeek/static/js/runtime-main.55e9f8ee.js",
+    "runtime-main.js.map": "/SneakPeek/static/js/runtime-main.55e9f8ee.js.map",
+    "static/js/2.533e59b3.chunk.js": "/SneakPeek/static/js/2.533e59b3.chunk.js",
+    "static/js/2.533e59b3.chunk.js.map": "/SneakPeek/static/js/2.533e59b3.chunk.js.map",
+    "index.html": "/SneakPeek/index.html",
+    "static/css/main.e747e22d.chunk.css.map": "/SneakPeek/static/css/main.e747e22d.chunk.css.map",
+    "static/js/2.533e59b3.chunk.js.LICENSE.txt": "/SneakPeek/static/js/2.533e59b3.chunk.js.LICENSE.txt",
+    "static/media/air_jordan_1.112be63e.svg": "/SneakPeek/static/media/air_jordan_1.112be63e.svg",
+    "static/media/background-shoe-img-3.d53e5112.JPG": "/SneakPeek/static/media/background-shoe-img-3.d53e5112.JPG",
+    "static/media/background_shoe.ec568872.svg": "/SneakPeek/static/media/background_shoe.ec568872.svg",
+    "static/media/firered_og.316d46a4.svg": "/SneakPeek/static/media/firered_og.316d46a4.svg",
+    "static/media/img01.f6398b70.jpg": "/SneakPeek/static/media/img01.f6398b70.jpg",
+    "static/media/img02.31a5e6e8.jpg": "/SneakPeek/static/media/img02.31a5e6e8.jpg",
+    "static/media/img03.70a060cc.jpg": "/SneakPeek/static/media/img03.70a060cc.jpg",
+    "static/media/img04.ed8253e0.jpg": "/SneakPeek/static/media/img04.ed8253e0.jpg",
+    "static/media/img05.7f2a4c55.jpg": "/SneakPeek/static/media/img05.7f2a4c55.jpg",
+    "static/media/img06.46f34aa0.jpg": "/SneakPeek/static/media/img06.46f34aa0.jpg",
+    "static/media/img07.3e3630ef.jpg": "/SneakPeek/static/media/img07.3e3630ef.jpg",
+    "static/media/img08.f4400c32.jpg": "/SneakPeek/static/media/img08.f4400c32.jpg",
+    "static/media/img09.1d573012.jpg": "/SneakPeek/static/media/img09.1d573012.jpg",
+    "static/media/sneakpeek-logo.9b4f6dfb.svg": "/SneakPeek/static/media/sneakpeek-logo.9b4f6dfb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55e9f8ee.js",
+    "static/js/2.533e59b3.chunk.js",
+    "static/css/main.e747e22d.chunk.css",
+    "static/js/main.44f9232a.chunk.js"
+  ]
+}
