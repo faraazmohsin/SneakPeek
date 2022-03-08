@@ -13,3 +13,7 @@
 <p align="center" width="100%">
   <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_calendar.png">
 </p>
+
+<p align="center" width="100%">
+  <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_calendar2.png">
+</p>
