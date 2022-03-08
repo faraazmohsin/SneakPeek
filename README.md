@@ -11,11 +11,11 @@
 ## Demo
 
   <div>
-<p align="center" width="100%">
+<p align="left" width="100%">
   <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive.png">
 </p>
 
-<p align="center" width="100%">
+<p align="right" width="100%">
   <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive2.png">
 </p>
   </div>
