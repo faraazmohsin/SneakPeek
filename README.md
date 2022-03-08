@@ -10,7 +10,7 @@
 
 ## Demo
 
-<p float="center" width="100%">
+<p align="center" float="left" width="100%">
   <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive.png">
   <img src="https://github.com/faraazmohsin/SneakPeek/blob/main/application/images/demo_responsive2.png">
 </p>
